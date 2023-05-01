@@ -13,7 +13,7 @@ There is currently support for the following device types within Home Assistant:
 * Press button to restart box
 * Press button to ring phone
 
-![GitHub release](https://img.shields.io/github/release/Cyr-ius/hass-livebox-component)
+![GitHub release](https://img.shields.io/github/release/burn1879/hass-livebox)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 ## Configuration
